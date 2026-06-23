@@ -1,8 +1,0 @@
-# Namespaced config covering a non-listed built-in (github) and an external plugin.
-github:
-  token: abc
-  org: prowler-cloud
-custom_plugin:
-  setting: value
-  nested:
-    key: 42
